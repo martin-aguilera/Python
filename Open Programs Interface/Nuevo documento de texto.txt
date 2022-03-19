@@ -1,0 +1,9 @@
+# It opens 6 programs
+* ## notepad
+* ## steam
+* ## calculator
+* ## opera
+* ## osu!
+* ## megasync
+
+# Check the path of the programs in the code and change them if it's necessary
